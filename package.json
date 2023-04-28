@@ -33,7 +33,7 @@
   "dependencies": {
     "@google-cloud/pubsub": "^2.18.1",
     "axios": "^0.24.0",
-    "ffmpeg-for-homebridge": "0.1.0",
+    "ffmpeg-for-homebridge": "0.1.4",
     "googleapis": "^87.0.0",
     "ip": "^1.1.5",
     "lodash": "^4.17.21",
